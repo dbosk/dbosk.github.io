@@ -2,7 +2,7 @@ PUBDIRS= 	csc sys miun
 
 SERVER-csc= u-shell.csc.kth.se
 PUBDIR-csc= /afs/nada.kth.se/home/x/u13aecix/public_html/
-PUBCMD-csc= git archive csc ${PUB_FILES} | \
+PUBCMD-csc= git archive kth ${PUB_FILES} | \
 			ssh ${SERVER-${dir}} pax -r -s ",^,${PUBDIR-${dir}},";
 
 SERVER-sys= sftp.sys.kth.se
