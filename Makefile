@@ -11,6 +11,9 @@ PUB_METHOD-sys= 	git
 PUB_BRANCH= 		kth
 PUB_FILES= 			index.html dbosk.jpg
 
+clean:
+	true
+
 ### INCLUDES ###
 
 INCLUDES= 	depend.mk pub.mk
