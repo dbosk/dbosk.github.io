@@ -1,20 +1,19 @@
-PUBDIRS= 	csc sys miun
+PUB_SITES?= 		miun
 
-SERVER-csc= u-shell.csc.kth.se
-PUBDIR-csc= /afs/nada.kth.se/home/x/u13aecix/public_html/
-PUBCMD-csc= git archive kth ${PUB_FILES} | \
-			ssh ${SERVER-${dir}} pax -r -s ",^,${PUBDIR-${dir}},";
+PUB_SERVER-miun= 	apachepersonal.miun.se
+PUB_DIR-miun= 		/home/danbos/
+PUB_METHOD-miun= 	git
+PUB_BRANCH-miun= 	miun
 
-SERVER-sys= sftp.sys.kth.se
-PUBDIR-sys= /home/d/b/dbosk/public_html/
-PUBCMD-sys= ${PUBCMD-csc}
+### INCLUDES ###
 
-SERVER-miun=apachepersonal.miun.se
-PUBDIR-miun=/home/danbos/
-PUBCMD-miun=git archive miun ${PUB_FILES} | \
-			ssh ${SERVER-${dir}} pax -r -s ",^,${PUBDIR-${dir}},";
+INCLUDES= 	depend.mk pub.mk
 
-PUB_FILES= 	index.html dbosk.jpg
-
-publish:
-	$(foreach dir,${PUBDIRS},${PUBCMD-${dir}})
+define inc
+ifeq ($(findstring $(1),${MAKEFILE_LIST}),)
+$(1):
+	wget https://raw.githubusercontent.com/dbosk/makefiles/master/$(1)
+include $(1)
+endif
+endef
+$(foreach i,${INCLUDES},$(eval $(call inc,$i)))
