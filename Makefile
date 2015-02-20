@@ -5,6 +5,11 @@ PUB_DIR-miun= 		/home/danbos/
 PUB_METHOD-miun= 	git
 PUB_BRANCH-miun= 	miun
 
+PUB_FILES= 			index.html dbosk.jpg
+
+clean:
+	true
+
 ### INCLUDES ###
 
 INCLUDES= 	depend.mk pub.mk
