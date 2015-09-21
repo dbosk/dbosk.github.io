@@ -1,6 +1,6 @@
 PUB_SITES?= 		csc sys
 
-PUB_SERVER-csc= 	u-shell.csc.kth.se
+PUB_SERVER-csc= 	priv-shell.csc.kth.se
 PUB_DIR-csc= 		/afs/nada.kth.se/home/x/u13aecix/public_html/
 PUB_METHOD-csc= 	git
 
