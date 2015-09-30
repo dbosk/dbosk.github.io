@@ -1,0 +1,14 @@
+article {
+    max-width: 32em;
+    text-align: justify;
+}
+tbody {
+    text-align: left;
+    vertical-align: top;
+}
+img#me {
+    height: 7em;
+}
+#reviews, #papers, #reflections {
+    display: none;
+}
