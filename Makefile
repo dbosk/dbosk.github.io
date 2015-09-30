@@ -5,7 +5,7 @@ PUB_DIR-miun= 		/home/danbos/
 PUB_METHOD-miun= 	git
 PUB_BRANCH-miun= 	miun
 
-PUB_FILES= 			index.html dbosk.jpg
+PUB_FILES= 			index.html index.css dbosk.jpg
 
 .PHONY: clean
 clean:
