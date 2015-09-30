@@ -9,7 +9,7 @@ PUB_DIR-sys= 		/home/d/b/dbosk/public_html/
 PUB_METHOD-sys= 	git
 
 PUB_BRANCH= 		kth
-PUB_FILES= 			index.html dbosk.jpg
+PUB_FILES= 			index.html index.css dbosk.jpg
 
 .PHONY: clean
 clean:
