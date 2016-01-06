@@ -5,7 +5,7 @@ PUB_DIR-jarvis= 	/home/dbosk/www
 PUB_METHOD-jarvis= 	git
 
 PUB_BRANCH= 		master
-PUB_FILES= 			index.html
+PUB_FILES= 			index.html key.gpg.asc
 
 .PHONY: clean
 clean:
