@@ -10,6 +10,7 @@ PUB_METHOD-sys= 	git
 
 PUB_BRANCH= 		kth
 PUB_FILES= 			index.html index.css dbosk.jpg
+PUB_FILES+= 		undergradprops.html
 
 .PHONY: clean
 clean:
