@@ -14,6 +14,9 @@
 [0xf17e3002a2d78fc8]: https://pgp.mit.edu/pks/lookup?op=vindex&search=0xF17E3002A2D78FC8
 [Portrait of me]: dbosk-scaled.jpg
 
+[dblp]: http://dblp.uni-trier.de/pers/hd/b/Bosk:Daniel
+[Google Scholar]: https://scholar.google.fr/citations?user=XupF7c8AAAAJ&hl=en
+
 [GitHub]: https://github.com/dbosk
 
 ------------------------------------------------------------------------
@@ -87,26 +90,6 @@ Finse, Norway.
 *2014-Oct*: [1st Cyber Security and Privacy (CySeP) Winter 
 School](https://people.kth.se/~papadim/cysep/2014/) in
 Stockholm, Sweden.
-
-
-## Papers
-
-You can find my publications indexed in [dblp] and [Google Scholar]. A static 
-list of some of my papers follows:
-
-[dblp]: http://dblp.uni-trier.de/pers/hd/b/Bosk:Daniel
-[Google Scholar]: https://scholar.google.fr/citations?user=XupF7c8AAAAJ&hl=en
-
-Daniel Bosk, Martin Kjellqvist and Sonja Buchegger. "[Towards Perfectly
-Secure and Deniable Communication Using an NFC-Based Key-Exchange
-Scheme][OTPKX]", NordSec 2015.
-
-Daniel Bosk and Sonja Buchegger. "[Privacy-Preserving Access Control in 
-Publicly Readable File Systems][ACinPubFS]", IFIP Summer School on Privacy and 
-Identity Management 2015.
-
-[OTPKX]: https://github.com/dbosk/otpkx/releases/tag/v1.1
-[ACinPubFS]: https://github.com/dbosk/ACinPubFS/releases/tag/v2.2
 
 
 ## Theses
