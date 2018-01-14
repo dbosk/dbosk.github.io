@@ -29,8 +29,11 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 ## Places where you might have met me
 
-*2016-Dec--Now*: Visiting the [ASAP team](https://www.inria.fr/en/teams/asap) in 
-INRIA Rennes, France.
+*2017-01--Now*: Visiting the [WIDE team](https://www.inria.fr/en/teams/wide) 
+(formerly the ASAP team) at INRIA Rennes, France.
+
+*2016-Dec--2017-12*: Visited the [ASAP team](https://www.inria.fr/en/teams/asap) 
+at INRIA Rennes, France.
 
 *2017-Dec*: [IEEE WIFS 2017](https://wifs2017.org), Rennes, France. I presented 
 a [poster on Securely and Privately Verifiable 
