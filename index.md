@@ -96,13 +96,3 @@ Finse, Norway.
 *2014-Oct*: [1st Cyber Security and Privacy (CySeP) Winter 
 School](https://people.kth.se/~papadim/cysep/2014/) in
 Stockholm, Sweden.
-
-
-## Theses
-
-Daniel Bosk. *[A Formalisation of Swedish Upper Secondary School
-Mathematics][msc-fulltext]*.  Master's thesis. Trita-MAT. MA, ISSN 1401-2278. 
-Department of Mathematics, KTH Royal Institute of Technology and Department of 
-Mathematics and Science Education, Stockholm University. 2011.
-
-[msc-fulltext]: http://kth.diva-portal.org/smash/get/diva2:515592/FULLTEXT01.pdf
