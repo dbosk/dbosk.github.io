@@ -31,8 +31,8 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 *2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
 2019](https://cysep.conf.kth.se).
-I presented ongoing work on "Privacy-Preserving Verifiable Crowd Counting for 
-Protests".
+I presented ongoing work on ["Privacy-Preserving Verifiable Crowd Counting for 
+Protests"](https://github.com/dbosk/crocus/releases/download/swits-2018/slides-short.pdf).
 
 *2018-Jun*: [8th biannal Surveillance and Society 
 Conference](http://conferences.au.dk/ssn2018), Aarhus, Denmark.
@@ -52,7 +52,7 @@ Protests](https://github.com/dbosk/ProtestVerif/releases/download/WIFS-20171206/
 *2017-Aug*: [17th International School on Foundations of Security Analysis and 
 Design](http://www.sti.uniurb.it/events/fosad17/) in Bertinoro, Italy.
 I gave the talk ["Securely and Privately Verifying
-Protests"](https://github.com/dbosk/ProtestVerif/releases/tag/FOSAD-20170831).
+Protests"](https://github.com/dbosk/crocus/releases/download/FOSAD-20170831/ProtestVerif-slides.pdf).
 
 *2017-Jun*: [3rd Cyber Security and Privacy
 (CySeP) Summer School](http://www.ee.kth.se/cysep/) in Stockholm, Sweden.
@@ -83,7 +83,7 @@ Stockholm, Sweden.
 (NordSec)](http://nordsec2015.csc.kth.se/) in Stockholm,
 Sweden.
 I presented the paper "[Towards Perfectly Secure and Deniable Communication 
-using an NFC-Based Key-Exchange Scheme".](https://github.com/dbosk/otpkx/)"
+using an NFC-Based Key-Exchange Scheme"](https://github.com/dbosk/otpkx/).
 
 *2015-Oct*: [COINS PhD Student Seminar 
 2015](https://coinsrs.no/coins-ph-d-student-seminar-2015-stockholm/) in
@@ -97,9 +97,9 @@ Storage  Systems"](https://github.com/dbosk/ACinPubFS/releases/tag/v2.2).
 *2015-Jun*: [15th SWITS 
 Seminar](http://www.cs.kau.se/~simone/SWITS/AnnualSeminars/SWITS-15/Swits%20program%202015.htm) 
 in Sätra brunn, Sweden.
-I presented the paper [Towards Perfectly Secure and Deniable Communication 
+I presented the paper ["Towards Perfectly Secure and Deniable Communication 
 Using an NFC-Based Key-Exchange 
-Scheme](https://github.com/dbosk/otpkx/releases/tag/v1.2).
+Scheme"](https://github.com/dbosk/otpkx/releases/tag/v1.2).
 
 *2015-May*: [8th FRISC Winter School in Information 
 Security](https://www.frisc.no/arrangementer/finse-winter-school-2015) in 
