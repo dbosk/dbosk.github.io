@@ -31,6 +31,8 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 *2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
 2019](https://cysep.conf.kth.se).
+I presented ongoing work on "Privacy-Preserving Verifiable Crowd Counting for 
+Protests".
 
 *2018-Jun*: [8th biannal Surveillance and Society 
 Conference](http://conferences.au.dk/ssn2018), Aarhus, Denmark.
