@@ -29,6 +29,15 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 ## Places where you might have met me
 
+*2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
+2019](https://cysep.conf.kth.se).
+
+*2018-Jun*: [8th biannal Surveillance and Society 
+Conference](http://conferences.au.dk/ssn2018), Aarhus, Denmark.
+I presented the book chapter ["Applying Privacy-Enhancing Technologies: One 
+Alternative Future of 
+Protesting"](https://github.com/dbosk/protesting-future/releases/download/v1.2/protesting.pdf).
+
 *2016-Dec--2018-Apr*: Visited the [WIDE 
 team](https://www.inria.fr/en/teams/wide)
 (formerly the [ASAP team](https://www.inria.fr/en/teams/asap))
