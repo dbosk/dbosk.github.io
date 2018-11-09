@@ -7,9 +7,19 @@ PUB_METHOD-jarvis= 	git
 PUB_BRANCH= 		master
 PUB_FILES= 			index.html key.gpg.asc
 
+
+.PHONY: all
+all: index.html
+
+index.html: index.md
+
+%.html: %.md
+	pandoc -f markdown -t html $< > $@
+
+
 .PHONY: clean
 clean:
-	true
+	${RM} index.html
 
 
 INCLUDE_MAKEFILES=makefiles
