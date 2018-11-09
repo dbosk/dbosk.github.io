@@ -1,7 +1,7 @@
 PUB_SITES?= 		jarvis
 
-PUB_SERVER-jarvis= 	jarvis.bosk.se
-PUB_DIR-jarvis= 	/home/dbosk/www
+PUB_SERVER-jarvis= 	pepper.bosk.se
+PUB_DIR-jarvis= 	/web/dbosk
 PUB_METHOD-jarvis= 	git
 
 PUB_BRANCH= 		master
