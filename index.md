@@ -31,8 +31,9 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 *2019-Jun*: 
 [SWITS'19](https://swits.hotell.kau.se/AnnualSeminars/SWITS%202019/Swits%20program%202019.htm), 
-I presented ["SPORES: Transferring files as spores through the wind instead of 
-up in the Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603).
+I presented ongoing work ["SPORES: Transferring files as spores through the 
+wind instead of up in the 
+Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603).
 
 *2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
 2019](https://cysep.conf.kth.se).
