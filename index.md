@@ -33,7 +33,7 @@ Buchegger](http://www.csc.kth.se/~buc/).
 [EuroS&P'19](https://www.ieee-security.org/TC/EuroSP2019/index.php) in 
 Stockholm.
 
-*2019-Jun*: [CySeP'19](https://cysep.conf.kth.se/2019) in Karlstad,
+*2019-Jun*: [CySeP'19](https://cysep.conf.kth.se/2019) in Stockholm,
 I presented ongoing work ["SPORES: Transferring files as spores through the 
 wind instead of up in the 
 Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603) and
@@ -42,9 +42,9 @@ Protests"](https://github.com/dbosk/ProtestVerif/releases/download/WIFS-20171206
 (poster).
 
 *2019-Jun*: 
-[SWITS'19](https://swits.hotell.kau.se/AnnualSeminars/SWITS%202019/Swits%20program%202019.htm), 
-I presented ongoing work ["SPORES: Transferring files as spores through the 
-wind instead of up in the 
+[SWITS'19](https://swits.hotell.kau.se/AnnualSeminars/SWITS%202019/Swits%20program%202019.htm) 
+in Karlstad, I presented ongoing work ["SPORES: Transferring files as spores 
+through the wind instead of up in the 
 Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603).
 
 *2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
