@@ -29,6 +29,18 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 ## Places where you might have met me
 
+*2019-Jun*: I attended some talks at 
+[EuroS&P'19](https://www.ieee-security.org/TC/EuroSP2019/index.php) in 
+Stockholm.
+
+*2019-Jun*: [CySeP'19](https://cysep.conf.kth.se/2019) in Karlstad,
+I presented ongoing work ["SPORES: Transferring files as spores through the 
+wind instead of up in the 
+Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603) and
+["CROCUS: Securely and Privately Verifiable 
+Protests"](https://github.com/dbosk/ProtestVerif/releases/download/WIFS-20171206/ProtestVerif-poster.pdf) 
+(poster).
+
 *2019-Jun*: 
 [SWITS'19](https://swits.hotell.kau.se/AnnualSeminars/SWITS%202019/Swits%20program%202019.htm), 
 I presented ongoing work ["SPORES: Transferring files as spores through the 
@@ -36,7 +48,7 @@ wind instead of up in the
 Cloud"](https://github.com/dbosk/spores/releases/tag/SWITS-20190603).
 
 *2018-Jun*: [SWITS](https://swits.hotell.kau.se/)/[CySeP 
-2019](https://cysep.conf.kth.se).
+2019](https://cysep.conf.kth.se) in Stockholm.
 I presented ongoing work on ["Privacy-Preserving Verifiable Crowd Counting for 
 Protests"](https://github.com/dbosk/crocus/releases/download/swits-2018/slides-short.pdf).
 
