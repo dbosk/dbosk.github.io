@@ -29,6 +29,9 @@ Buchegger](http://www.csc.kth.se/~buc/).
 
 ## Places where you might have met me
 
+*2019-Jul*: I helped with the organization at 
+[PETS'19](https://petsymposium.org/2019/) in Stockholm.
+
 *2019-Jun*: I attended some talks at 
 [EuroS&P'19](https://www.ieee-security.org/TC/EuroSP2019/index.php) in 
 Stockholm.
