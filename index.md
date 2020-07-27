@@ -21,10 +21,17 @@
 
 ------------------------------------------------------------------------
 
-I'm a doctoral student in the group of Theoretical Computer Science. I do 
-research in security and privacy, my primary focus is on privacy in 
-decentralized systems.  My supervisor is [Sonja 
-Buchegger](http://www.csc.kth.se/~buc/).
+I'm a lecturer in computer science at the division of Theoretical Computer 
+Science since 2020. Previously, I was a lecturer of computer engineering at Mid 
+Sweden University since 2011.
+
+I'm interested in research in didactics (computer science and mathematics). I'm 
+also very interested in e-learning and have developed distance teaching since 
+2011.
+
+My research interests in computer science lie in the area of security and 
+privacy. My primary focus is on privacy in decentralized systems, with a 
+particular interest in *democracy-enhancing technologies*.
 
 
 ## Places where you might have met me
