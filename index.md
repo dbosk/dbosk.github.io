@@ -36,6 +36,8 @@ particular interest in *democracy-enhancing technologies*.
 
 ## Places where you might have met me
 
+*2020-Jul*: I attended TUG 2020 (online).
+
 *2019-Jul*: I helped with the organization at 
 [PETS'19](https://petsymposium.org/2019/) in Stockholm.
 
