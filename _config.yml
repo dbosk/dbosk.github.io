@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 
 title: Daniel Bosk
 email: daniel at bosk dot se
-description: > # this means to ignore newlines until "baseurl:"
-  My personal webpage.
+#description: > # this means to ignore newlines until "baseurl:"
+#  My personal webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daniel.bosk.se" # the base hostname & protocol for your site
 twitter_username: ""

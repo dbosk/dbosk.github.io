@@ -1,6 +1,3 @@
-Daniel Bosk
-===========
-
 ------------------------------------------------------------------------
 
 I'm a lecturer of computer science at the Department of Theoretical Computer 
