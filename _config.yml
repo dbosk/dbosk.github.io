@@ -3,8 +3,8 @@ theme: jekyll-theme-minimal
 title: Daniel Bosk
 email: daniel at bosk dot se
 description: >
-  "Lecturer in Computer Science"
-  "KTH Royal Institute of Technology"
+  Lecturer in Computer Science,
+  KTH Royal Institute of Technology
 #description: > # this means to ignore newlines until "baseurl:"
 #  My personal webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
